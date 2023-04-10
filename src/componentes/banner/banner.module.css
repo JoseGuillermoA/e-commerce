@@ -1,0 +1,87 @@
+.bannerContainer{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    padding-top: 100px;
+    padding-left: 10%;
+}
+
+.banner{
+    width: 90%;
+    height: 500px;
+    background-color: #2D3637;
+    border-radius: 50px;
+}
+
+.phrase{
+    position: relative;
+    width: 499px;
+    height: 112px;
+    line-height: 56px;
+    left: 100px;
+    top: 138px;
+}
+
+.phrase h3{
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.phrase .firstChild{
+    color: #F76B12;
+}
+
+.phrase h3{
+    color: #d9d9d9;
+}
+
+.vectorContainer{
+    width: 551px;
+    height: 386px;
+    position: relative;
+    left: 709px;
+    bottom: 456px;
+    padding-top: 32px;
+    padding-left: 150px;
+    display: flex;
+}
+
+
+.browserContainer{
+    background-color: white;
+    width: 650px;
+    height: 74px;
+    position: relative;
+    bottom: 580px;
+    left: 64px;
+    display: flex;
+    border-radius: 50px;
+    padding-left: 40px;
+}
+
+.vector{
+    position: relative;
+    top: 20px;
+    margin-right: 30.76px;
+}
+
+.searchProduct{
+    width: 576.76px;
+    border-radius: 50px;
+}
+
+.searchProduct::placeholder{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+.searchProduct{
+    outline: none;
+}
+
+.browserContainer input[type="text"]{
+    color: #C1C1C1;
+    font-size: 24px;
+    line-height: 74px;
+}
+

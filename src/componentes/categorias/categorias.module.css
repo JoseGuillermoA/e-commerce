@@ -1,0 +1,42 @@
+.categoriasContainer{
+    width: auto;
+    height: 396px;
+    background-color: white;
+}
+
+.categoriesTitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: black;
+    margin-left: 100px;
+}
+
+.cardsContainer{
+    width: 90%;
+    height: 190px;
+    display: flex;
+    margin-left: 85px;
+    margin-top: 50px;
+}
+
+.card{
+    width: 170px;
+    height: 190px;
+    background-color: #E1E1E1;
+    border-radius: 25px;
+    margin-left: 18px;
+    text-align: center;
+}
+
+.imagen{
+    margin-left: 62px;
+    margin-top: 30px;
+}
+
+.title{
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: black;
+    margin-top: 25px;
+}
+

@@ -1,0 +1,68 @@
+.headerContainer{
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 211px;
+    background-color: white;
+    line-height: 66.56px;
+}
+
+.logoContainer{
+    position: relative;
+    width: 245px;
+    height: 82px;
+    margin-left: 100px;
+    top: 64px;
+    bottom: 65px;
+}
+
+.titleContainer{
+    width: 341px;
+    height: 67px;
+    position: relative;
+    left: 703px;
+}
+
+.titleContainer h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 55px;
+    color: black;
+}
+
+.menu{
+    position: relative;
+    width: 253px;
+    height: 36px;
+    left: 734px;
+    display: flex;
+}
+
+.menuHome,
+.menuCatalogo{
+    font-family: 'Inter';
+    font-size: 23.31px;
+    color: black;
+    margin-left: 41px;
+}
+
+.opciones{
+   position: relative;
+   width: 451px;
+   height: 36px; 
+   display: flex;
+   line-height: 36px;
+   left: 1255px;
+   bottom: 169px;
+}
+
+.opciones h4{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+.createAccount{
+    margin-left: 46px;
+    margin-right: 46px;
+}
+

@@ -1,0 +1,31 @@
+.footerContainer{
+    background-color: #2D3637;
+    width: auto;
+    height: 204px;
+    padding-top: 39px;
+}
+
+.socialMedia{
+    width: 100px;
+    height: 40px;
+    display: flex;
+    margin-left: 780px;
+}
+
+.facebookIcon{
+    margin-right: 20.1px;
+}
+
+.footerTitle{
+    width: 492px;
+    height: 66px;
+    margin-top: 20px;
+    margin-left: 590px;
+    text-align: center;
+}
+
+.footerTitle h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: white;
+}
